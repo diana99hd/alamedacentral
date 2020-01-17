@@ -1,0 +1,51 @@
+{
+	"lugares": [
+		{
+			"title": "Hemiciclo a Juárez",
+			"descripcion": "Dirección: Plaza Juárez, Centro Histórico | Frente al Hemiciclo a Juárez de la Alameda central, Ciudad de México 06010, México",
+			"poster": "./img/hemiciclo_juarez.jpg"
+
+		},
+		{
+			"title": "Palacio Postal",	
+			"descripcion": "Dirección: Calle Tacuba 1, Ciudad de México 06000, México",
+			"poster": "./img/palacio_postal.jpg"
+		},
+
+
+		{
+			"title": "Torre Latinoamericana",
+			"descripcion": "Dirección: Eje Central 2, Ciudad de México 06040, México",
+			"poster": "./img/torre_latinoamericana.jpg"
+		},
+		{
+			"title": "Museo Memoria y Tolerancia",
+			"descripcion": "Dirección: Plaza Juárez, Centro Histórico, Frente al Hemiciclo a Juárez de la Alameda central, Ciudad de México 06010, México",
+			"poster": "./img/museo-memoria.jpg"
+		},
+		{
+			"title": "Barrio Alameda",	
+			"descripcion": "Dirección: Calle Doctor Mora 9 | Colonia Centro, Ciudad de México 06000, México",
+			"poster": "./img/barrio_alameda.jpg"
+		},
+
+		{
+			"title": "Cafetería Trevi",
+			"descripcion": "Dirección: Esquina Calle Doctor Mora, Colon 1, Centro, 06050 Ciudad de México, CDMX",
+			"poster": "./img/cafeteria-trevi.jpg"
+			
+		},
+		{
+			"title": "Teatro Hidalgo",
+			"descripcion": "Dirección: Av. Hidalgo 23, Ciudad de México, México",
+			"poster": "./img/teatro-hidalgo.jpg"
+		},
+
+		{
+			"title": "Palacio de Bellas Artes",
+			"descripcion": "Dirección: Avenida Juarez y Eje Central s/n | Centro Histórico, Ciudad de México 06050, México",
+				"poster": "./img/bellasartes.jpg"
+		}
+	]
+}
+
